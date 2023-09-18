@@ -25,6 +25,7 @@ p{
 }
 
 img{
+    text-align: center;
     width: 250px;
     border: white;
     border-width: 10px;
@@ -78,14 +79,11 @@ div{
     color: #707070;
 }
 .green{
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px;
     border-top: 2px;
-}
-.green p{
-    color: #707070;
 }
 
 footer{
@@ -94,13 +92,12 @@ footer{
     border: white;
     border-width: 5px;
     border-style: solid;
-    
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 footer p{
     text-align: right;
     font-size: 20px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
 }
 
