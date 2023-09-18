@@ -90,9 +90,6 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    background-color: #0000ff;
-    text-align: left;
-    margin-right: 50px;
     border-bottom: 0px;
     border-left: 0px;
     border-top: 2px solid white;
@@ -112,5 +109,6 @@ footer p{
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-left: 0px;
 }
 
