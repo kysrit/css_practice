@@ -25,13 +25,11 @@ p{
 }
 
 img{
-    width: 250px;
-    border: white;
-    border-width: 10px;
-    border-style: dashed;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	border: dashed 10px #FFFFFF
 }
 
 div{
